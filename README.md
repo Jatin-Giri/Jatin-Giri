@@ -2,7 +2,7 @@
 - 👀 I’m interested in 🖥Computers, Machine☄️, 🌱Plants 
 - 🌱 I’m currently learning JavaScript
 - /\︵-︵/\
-  |(◉)(◉)|
+  |(◉)(◉)| </br>
   \ ︶V︶ /
   /↺↺↺↺\
   ↺↺↺↺↺|
