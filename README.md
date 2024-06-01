@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatin-Giri
-- 👀 I’m interested in 🖥Computers, Machine☄️, 🌱Plants 
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in 🖥Computers, 🦾Machine, 🌱Plants🌳🌾
+- 📎  I’m currently learning JavaScript
 - <pre>
         /\︵-︵/\
         |(◉)(◉)|
@@ -11,7 +11,15 @@
        ¯¯/\¯/\¯
    </pre>
    
-<!--- - 💞️ I’m looking to collaborate on ... 
+<!--- - ☄️
+👩🏽‍💻 🤖🎯🗿🏙⌨️🔭👨🏻‍💻🔬⚙️🛠️🔧📟🚀
+⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ｡⋆
+🌌   ༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚    🪐  🛰️
+🃜🃚🃖🃁🂭🂺 🌍
+๑☆❕☆🦈☆๑
+📸  👩‍🚀   🌲🌳🌿
+𒅒𒈔𒅒𒇫𒄆
+💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
