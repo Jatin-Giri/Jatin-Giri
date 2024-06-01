@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Jatin-Giri
 - 👀 I’m interested in 🖥Computers, Machine☄️, 🌱Plants 
 - 🌱 I’m currently learning JavaScript
-- /\︵-︵/\
-  |(◉)(◉)| </br>
-  \ ︶V︶ / <br>
-  /↺↺↺↺\
-  ↺↺↺↺↺|
-  \↺↺↺↺/
-  ¯¯/\¯/\¯
+- /\︵-︵//\\
+  |(◉)(◉) </br>
+  \ ︶V︶ /<br>
+  /↺↺↺↺\</br>
+  ↺↺↺↺↺|</br>
+  \↺↺↺↺/</br>
+  ¯¯/\¯/\¯</br>
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
