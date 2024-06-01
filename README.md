@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Jatin-Giri
 - 👀 I’m interested in 🖥Computers, Machine☄️, 🌱Plants 
 - 🌱 I’m currently learning JavaScript
-- 
-   <pre>
-      /\︵-︵/\
+- <pre>
+        /\︵-︵/\
         |(◉)(◉)|
         \ ︶V︶ /
         /↺↺↺↺\
