@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jatin-Giri 🔭 📟 🚀 🌍 ★ 🛰️  🪐
+- 👋 Hi, I’m @Jatin-Giri 🔭 📟 🚀 🌍 ★ 🛰️ 🔬 🪐
 - 👀 I’m interested in <ul type ='square'>
  &nbsp; <li>. Computers 🖥⌨️ </li>
  &nbsp; <li>. Machine 🤖🛠️🦾 </li>
