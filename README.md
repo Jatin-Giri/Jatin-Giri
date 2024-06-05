@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jatin-Giri 🔭 📟 🚀 🌍 ★ 🛰️  🪐
 - 👀 I’m interested in <li>. Computers 🖥⌨️  </li>
 <li>. 🦾Machine🤖🛠️ </li>
-<li> 🌱🌲Plants🌳🌾 </li>  
+<li>. 🌱🌲Plants🌳🌾 </li>  
 - 📎  I’m currently learning JavaScript
 - <pre>
         /\︵-︵/\
