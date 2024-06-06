@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Jatin-Giri 🔭 📟 🚀 🌍 ★ 🛰️ 🔬 🪐
+- 👋 Hi, I’m @Jatin-Giri
 - 👀 I’m interested in <ul type ='square'>
  &nbsp; <li>. Computers 🖥⌨️ </li>
  &nbsp; <li>. Machine 🤖🛠️🦾 </li>
  &nbsp; <li>. Plants 🌳🌾🌱🌲🌿</li>
- &nbsp; <li>. P 🌳🌾</li>
+ &nbsp; <li>. Astrology   🔭  🚀 🌍  🛰️ 🔬 🪐 </li>
  
 </ul>
 - 📎  I’m currently learning JavaScript
