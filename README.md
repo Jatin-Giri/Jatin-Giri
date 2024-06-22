@@ -6,7 +6,7 @@
  &nbsp; <li>. Astrology   🔭  🚀 🌍  🛰️ 🔬 🪐 </li>
  
 </ul>
-- 📎  I’m currently learning JavaScript
+- 📎  I’m currently learning JavaScript, PHP
 - <pre>
         /\︵-︵/\
         |(◉)(◉)|
