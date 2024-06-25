@@ -2,7 +2,7 @@
 - 👀 I’m interested in <ul type ='square'>
  &nbsp; <li>. Computers 🖥 ⌨️ 👨🏻‍💻</li>
  &nbsp; <li>. Machine 🤖 🛠️ 🦾 ⚙️ 🛠️ 🔧 </li>
- &nbsp; <li>. Plants 🌳🌾🌱🌲🌿</li>
+ &nbsp; <li>. Plants 🌳 🌾 🌱 🌲 🌿</li>
  &nbsp; <li>. Astrology   🔭  🚀 🌍  🛰️ 🔬 🪐 </li>
  
 </ul>
