@@ -3,7 +3,7 @@
  &nbsp; <li>. Computers 🖥 ⌨️ 👨🏻‍💻</li>
  &nbsp; <li>. Machine 🤖 🛠️ 🦾 ⚙️ 🛠️ 🔧 </li>
  &nbsp; <li>. Plants 🌳 🌾 🌱 🌲 🌿</li>
- &nbsp; <li>. Astrology  ｡⋆｡ ﾟ☾ ﾟ｡⋆ 🔭  🚀 🌍  🛰️ 🔬 🪐 </li>
+ &nbsp; <li>. Astrology ﾟ☾ ﾟ｡⋆ 🔭 🚀 🌍 🛰️ 🔬 🪐 </li>
  
 </ul>
 - 📎  I’m currently learning JavaScript, Node js
