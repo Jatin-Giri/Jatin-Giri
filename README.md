@@ -6,7 +6,7 @@
  &nbsp; <li>. Astrology ﾟ☾ ﾟ｡⋆ ☄️ 🔭 🚀 🌍 🛰️ 🔬 🪐 </li>
  
 </ul>
-- 📎  I’m currently learning JavaScript, Animations✨
+- 📎  I’m currently learning D3js, SVG Animations✨
 - <pre>
         /\︵-︵/\
         |(◉)(◉)|
